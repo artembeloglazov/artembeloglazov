@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+> 2017
 
-You can use the [editor on GitHub](https://github.com/artembeloglazov/rg1.ru/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[smallhorse.ru](http://smallhorse.ru)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Стартап
 
-### Markdown
+> 2016
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[miiix.org](http://miiix.org)
 
-```markdown
-Syntax highlighted code block
+Результат: написание с нуля api каталога товаров и миграция данных со предыдущей версии.
 
-# Header 1
-## Header 2
-### Header 3
+[220-volt.ru](http://www.220-volt.ru)
 
-- Bulleted
-- List
+Обязанности: разработка доски объявлений и форума [mastercity.ru](http://mastercity.ru).
 
-1. Numbered
-2. List
+Результат: написание медиасервера и миграция всех данных со старого движка, решение текущих задач для проекта mastercity.ru, касающихся SEO, доработки frontend-а.
 
-**Bold** and _Italic_ and `Code` text
+> 2015
 
-[Link](url) and ![Image](src)
-```
+[paxport.ru](http://paxport.ru)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Обязанности: Разработка на Zend FW + SOAP системы бронирования билетов.
 
-### Jekyll Themes
+Результат: внедрение модуля статистики, отчета командировок для клиентов, решение задач, связанных с поддержкой клиентов в случае отказа системы бронирования, доработка frontend-части.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artembeloglazov/rg1.ru/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[www.obit.ru](http://www.obit.ru)
 
-### Support or Contact
+Обязанности: Автоматизация внутренних процессов.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Результат: написание сервиса для монтажников, организация кода в GIT, composer, настройка Redmine для командной работы с кодом.
+
+
+> 2010 — 2015
+
+[starliner.ru](http://starliner.ru)
+
+Обязанности: Доработка самописного движка для бронирования авиа, жд, отелей(PHP, SOAP, XSL,node.js, backbone.js, grunt, LESS).
+
+Результат: Интеграция с Sabre GDS, запуск и внедрение redmine, gitlab, участвовал в администрировании серверов, написании ТЗ, блок-схем, автоматизации тестирования(phpunit, selenium, mocha.js) поддержке клиентов при возникновении сложных случаев.
+
+> 2009
+
+[fintimes.ru](http://fintimes.ru)
+
+Обязанности: Разработка на самописном движке с последующей миграцией на Drupal.
+
+Результат: 
+разработка и поддержка highload-потралов:
+- fintimes.km.ru (переписал на drupal)
+- news.km.ru (Создан на корпоративной CMS. Осуществлял поддержку).
+
+Opensource:
+Принял участие в разработке пакета node-soap(https://www.npmjs.com/package/soap), coffee-jade-wrapper(https://www.npmjs.com/package/coffee-jade-wrapper).
+ 
