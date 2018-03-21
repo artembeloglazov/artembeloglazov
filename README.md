@@ -51,7 +51,4 @@
 разработка и поддержка highload-потралов:
 - fintimes.km.ru (переписал на drupal)
 - news.km.ru (Создан на корпоративной CMS. Осуществлял поддержку).
-
-Opensource:
-Принял участие в разработке пакета node-soap(https://www.npmjs.com/package/soap), coffee-jade-wrapper(https://www.npmjs.com/package/coffee-jade-wrapper).
  
