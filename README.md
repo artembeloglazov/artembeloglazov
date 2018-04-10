@@ -49,6 +49,10 @@
 
 Результат: Интеграция с Sabre GDS, запуск и внедрение redmine, gitlab, участвовал в администрировании серверов, написании ТЗ, блок-схем, автоматизации тестирования(phpunit, selenium, mocha.js) поддержке клиентов при возникновении сложных случаев.
 
+[coffee-jade-wrapper](https://www.npmjs.com/package/coffee-jade-wrapper)
+
+Разработка обертки для шаблонизатора jade([pug.js](https://pugjs.org/api/getting-started.html)) на coffeescript.
+
 > 2009
 
 [fintimes.ru](http://fintimes.ru)
