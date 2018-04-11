@@ -10,7 +10,7 @@
 
 > 2017
 
-[smallhorse.ru](http://smallhorse.ru)
+`smallhorse.ru` :heavy_multiplication_x: (не действует)
 
 Стартап
 
