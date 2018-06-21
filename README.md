@@ -1,4 +1,4 @@
-# 2018
+# 2017 - 2018
 
 <a href="http://перевозкиспб.рф"><img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"/></a>  [Перевозкиспб.рф](http://перевозкиспб.рф)
 
@@ -11,8 +11,6 @@
 Сайт строительной тематики.
 
 Обязанности: развитие, продвижение проекта, разработка с нуля, постановка задач.
-
-# 2017
 
 <img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/>  smallhorse.ru
 
