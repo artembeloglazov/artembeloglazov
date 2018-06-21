@@ -2,13 +2,13 @@
 
 > 2018
 
-[Перевозкиспб.рф](http://перевозкиспб.рф)
+<img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"> [Перевозкиспб.рф](http://перевозкиспб.рф)
 
 Сайт грузоперевозок по СПБ и Ленинградской области.
 
 Обязанности: развитие, продвижение проекта, разработка с нуля, постановка задач.
 
-[Обсада-спб.рф](http://обсада-спб.рф)
+<img src="http://xn----7sbacdp1enne.xn--p1ai/favicon.ico" height="16"> [Обсада-спб.рф](http://обсада-спб.рф)
 
 Сайт строительной тематики.
 
@@ -16,17 +16,17 @@
 
 > 2017
 
-smallhorse.ru (не действует)
+<img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"> smallhorse.ru
 
 Стартап
 
 > 2016
 
-[miiix.org](http://miiix.org)
+<img src="http://miiix.org/favicon.ico" height="24" width="16"> [miiix.org](http://miiix.org)
 
 Результат: написание с нуля api каталога товаров и миграция данных со предыдущей версии.
 
-[220-volt.ru](http://www.220-volt.ru)
+<img src="http://www.220-volt.ru/favicon.ico" height="16" width="16"> [220-volt.ru](http://www.220-volt.ru)
 
 Обязанности: разработка доски объявлений и форума [mastercity.ru](http://mastercity.ru).
 
@@ -34,13 +34,13 @@ smallhorse.ru (не действует)
 
 > 2015
 
-[paxport.ru](http://paxport.ru)
+<img src="https://static.tildacdn.com/tild3639-3138-4537-b966-623466643566/favicon.ico" width="16" height="16"> [paxport.ru](http://paxport.ru)
 
 Обязанности: Разработка на Zend FW + SOAP системы бронирования билетов.
 
 Результат: внедрение модуля статистики, отчета командировок для клиентов, решение задач, связанных с поддержкой клиентов в случае отказа системы бронирования, доработка frontend-части.
 
-[www.obit.ru](http://www.obit.ru)
+<img src="https://www.obit.ru/favicon.ico" height="16" width="16">[www.obit.ru](http://www.obit.ru)
 
 Обязанности: Автоматизация внутренних процессов.
 
@@ -49,7 +49,7 @@ smallhorse.ru (не действует)
 
 > 2010 — 2015
 
-[starliner.ru](http://starliner.ru)
+<img src="https://info.starliner.ru/wp-content/uploads/2018/02/icon-180x180-150x150.png" width="16" height="16"> [starliner.ru](http://starliner.ru)
 
 Обязанности: Доработка самописного движка для бронирования авиа, жд, отелей(PHP, SOAP, XSL,node.js, backbone.js, grunt, LESS).
 
@@ -61,7 +61,7 @@ smallhorse.ru (не действует)
 
 > 2009
 
-[fintimes.ru](http://fintimes.ru)
+<img src="http://www.km.ru/favicon.ico" height="16" width="16"> [fintimes.ru](http://fintimes.ru)
 
 Обязанности: Разработка на самописном движке с последующей миграцией на Drupal.
 
