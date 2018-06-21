@@ -20,7 +20,7 @@ E-commerce стартап
 
 ## <a href="http://miiix.org"><img src="http://miiix.org/favicon.ico" width="16" height="16"/></a>  [Miiix.org](http://miiix.org)
 
-Результат: написание с нуля api каталога товаров и миграция данных со предыдущей версии.
+Результат: написание с нуля api 2.0 каталога товаров и миграция данных с предыдущей версии.
 
 ## <a href="http://www.220-volt.ru"><img src="http://www.220-volt.ru/favicon.ico" height="16" width="16"/></a>  [220-volt.ru](http://www.220-volt.ru)
 
