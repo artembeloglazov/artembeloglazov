@@ -12,13 +12,13 @@
 
 Обязанности: развитие, продвижение проекта, разработка с нуля, постановка задач.
 
-## 2017
+# 2017
 
 <a href="http://smallhorse.ru"><img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/></a>  smallhorse.ru
 
-Стартап
+E-commerce стартап
 
-## 2016
+# 2016
 
 <a href="http://miiix.org"><img src="http://miiix.org/favicon.ico" width="16" height="16"/></a>  [miiix.org](http://miiix.org)
 
@@ -30,7 +30,7 @@
 
 Результат: написание медиасервера и миграция всех данных со старого движка, решение текущих задач для проекта mastercity.ru, касающихся SEO, доработки frontend-а.
 
-## 2015
+# 2015
 
 <a href="http://paxport.ru"><img src="https://static.tildacdn.com/tild3639-3138-4537-b966-623466643566/favicon.ico" width="16" height="16"/></a>  [paxport.ru](http://paxport.ru)
 
@@ -45,7 +45,7 @@
 Результат: написание сервиса для монтажников, организация кода в GIT, composer, настройка Redmine для командной работы с кодом.
 
 
-## 2010 — 2015
+# 2010 — 2015
 
 <a href="http://starliner.ru"><img src="https://info.starliner.ru/wp-content/uploads/2018/02/icon-180x180-150x150.png" width="16" height="16"/></a> [starliner.ru](http://starliner.ru)
 
@@ -55,7 +55,7 @@
 
 > Разработка [обертки для шаблонизатора jade/pug](https://www.npmjs.com/package/coffee-jade-wrapper) на coffeescript.
 
-## 2009
+# 2009
 
 <a href="http://fintimes.ru"><img src="http://www.km.ru/favicon.ico" height="16" width="16"/></a>  [fintimes.ru](http://fintimes.ru)
 
