@@ -22,7 +22,7 @@
 
 > 2016
 
-<img src="http://miiix.org/favicon.ico" height="24" width="16"> [miiix.org](http://miiix.org)
+<img src="http://miiix.org/favicon.ico" width="16" height="16"> [miiix.org](http://miiix.org)
 
 Результат: написание с нуля api каталога товаров и миграция данных со предыдущей версии.
 
@@ -40,7 +40,7 @@
 
 Результат: внедрение модуля статистики, отчета командировок для клиентов, решение задач, связанных с поддержкой клиентов в случае отказа системы бронирования, доработка frontend-части.
 
-<img src="https://www.obit.ru/favicon.ico" height="16" width="16">[www.obit.ru](http://www.obit.ru)
+<img src="https://www.obit.ru/favicon.ico" height="16" width="16"> [www.obit.ru](http://www.obit.ru)
 
 Обязанности: Автоматизация внутренних процессов.
 
