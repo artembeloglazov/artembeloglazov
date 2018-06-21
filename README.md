@@ -14,7 +14,7 @@
 
 # 2017
 
-<a href="http://smallhorse.ru"><img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/></a>  smallhorse.ru
+<img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/>  smallhorse.ru
 
 E-commerce стартап
 
