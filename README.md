@@ -1,6 +1,6 @@
 # Опыт работы
 
-> 2018
+## 2018
 
 <img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"> [Перевозкиспб.рф](http://перевозкиспб.рф)
 
@@ -14,13 +14,13 @@
 
 Обязанности: развитие, продвижение проекта, разработка с нуля, постановка задач.
 
-> 2017
+## 2017
 
 <img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"> smallhorse.ru
 
 Стартап
 
-> 2016
+## 2016
 
 <img src="http://miiix.org/favicon.ico" width="16" height="16"> [miiix.org](http://miiix.org)
 
@@ -32,7 +32,7 @@
 
 Результат: написание медиасервера и миграция всех данных со старого движка, решение текущих задач для проекта mastercity.ru, касающихся SEO, доработки frontend-а.
 
-> 2015
+## 2015
 
 <img src="https://static.tildacdn.com/tild3639-3138-4537-b966-623466643566/favicon.ico" width="16" height="16"> [paxport.ru](http://paxport.ru)
 
@@ -47,7 +47,7 @@
 Результат: написание сервиса для монтажников, организация кода в GIT, composer, настройка Redmine для командной работы с кодом.
 
 
-> 2010 — 2015
+## 2010 — 2015
 
 <img src="https://info.starliner.ru/wp-content/uploads/2018/02/icon-180x180-150x150.png" width="16" height="16"> [starliner.ru](http://starliner.ru)
 
@@ -55,11 +55,10 @@
 
 Результат: Интеграция с Sabre GDS, запуск и внедрение redmine, gitlab, участвовал в администрировании серверов, написании ТЗ, блок-схем, автоматизации тестирования(phpunit, selenium, mocha.js) поддержке клиентов при возникновении сложных случаев.
 
-[coffee-jade-wrapper](https://www.npmjs.com/package/coffee-jade-wrapper)
+> [coffee-jade-wrapper](https://www.npmjs.com/package/coffee-jade-wrapper)
+> Разработка обертки для шаблонизатора jade([pug.js](https://pugjs.org/api/getting-started.html)) на coffeescript.
 
-Разработка обертки для шаблонизатора jade([pug.js](https://pugjs.org/api/getting-started.html)) на coffeescript.
-
-> 2009
+## 2009
 
 <img src="http://www.km.ru/favicon.ico" height="16" width="16"> [fintimes.ru](http://fintimes.ru)
 
