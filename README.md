@@ -49,9 +49,9 @@ E-commerce стартап
 
 ## <a href="http://starliner.ru"><img src="https://info.starliner.ru/wp-content/uploads/2018/02/icon-180x180-150x150.png" width="16" height="16"/></a> [Starliner.ru](http://starliner.ru)
 
-Обязанности: Доработка самописного движка для бронирования авиа, жд, отелей(PHP, SOAP, XSL,node.js, backbone.js, grunt, LESS).
+Обязанности: развитие и поддержка системы бронирования авиа, жд, отелей(PHP, SOAP, XSL,node.js, backbone.js, grunt, LESS).
 
-Результат: Интеграция с Sabre GDS, запуск и внедрение redmine, gitlab, участвовал в администрировании серверов, написании ТЗ, блок-схем, автоматизации тестирования(phpunit, selenium, mocha.js) поддержке клиентов при возникновении сложных случаев.
+Результат: Интеграция с Sabre GDS, запуск и внедрение в команде redmine, gitlab, участвовал в администрировании серверов, написании ТЗ, блок-схем, автоматизации тестирования(phpunit, selenium, mocha.js) поддержке клиентов при возникновении сложных случаев.
 
 > Разработка [обертки для шаблонизатора jade/pug](https://www.npmjs.com/package/coffee-jade-wrapper) на coffeescript.
 
