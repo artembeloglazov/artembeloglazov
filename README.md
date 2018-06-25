@@ -49,7 +49,7 @@ E-commerce стартап
 
 ## <a href="http://starliner.ru"><img src="https://info.starliner.ru/wp-content/uploads/2018/02/icon-180x180-150x150.png" width="16" height="16"/></a> [Starliner.ru](http://starliner.ru)
 
-Обязанности: развитие и поддержка системы бронирования авиа, жд, отелей(PHP, SOAP, XSL,node.js, backbone.js, grunt, LESS).
+Обязанности: развитие и поддержка системы бронирования авиа, жд, отелей(PHP, SOAP, XSL, node.js, backbone.js, grunt, LESS).
 
 Результат: интеграция с Sabre GDS, запуск и внедрение в команде redmine, gitlab, участие в администрировании серверов, написании ТЗ, блок-схем, автоматизации тестирования(phpunit, selenium, mocha.js) поддержке клиентов при возникновении сложных случаев.
 
