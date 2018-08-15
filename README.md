@@ -57,7 +57,7 @@ E-commerce стартап
 
 # 2009
 
-## <a href="http://fintimes.ru"><img src="http://www.km.ru/favicon.ico" height="16" width="16"/></a>  [Fintimes.ru](http://fintimes.ru)
+## <a href="http://km.ru"><img src="http://www.km.ru/favicon.ico" height="16" width="16"/></a>  [KM-онлайн](http://km.ru)
 
 Обязанности: поддержка новостного портала, постепенная миграция на Drupal.
 
