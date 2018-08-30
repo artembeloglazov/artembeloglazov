@@ -53,7 +53,7 @@ E-commerce стартап
 
 Результат: интеграция с Sabre GDS, запуск и внедрение в команде redmine, gitlab, участие в администрировании серверов, написании ТЗ, блок-схем, автоматизации тестирования(phpunit, selenium, mocha.js) поддержке клиентов при возникновении сложных случаев.
 
-> Разработка [обертки для шаблонизатора jade/pug](https://www.npmjs.com/package/coffee-jade-wrapper) на coffeescript.
+> Opensource: разработка [обертки для шаблонизатора jade/pug](https://www.npmjs.com/package/coffee-jade-wrapper) на coffeescript.
 
 # 2009
 
