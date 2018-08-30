@@ -26,7 +26,7 @@ E-commerce стартап
 
 ## <a href="http://www.220-volt.ru" id="220"><img src="http://www.220-volt.ru/favicon.ico" height="16" width="16"/></a>  [220-volt.ru](http://www.220-volt.ru)
 
-Обязанности: разработка доски объявлений и форума [mastercity.ru](http://mastercity.ru).
+Обязанности: разработка доски объявлений и форума [mastercity.ru](http://mastercity.ru) (Symfony, Silex, ORM Doctrine, Phalcon).
 
 Результат: написание медиасервера и миграция всех данных со старого движка, решение текущих задач для проекта mastercity.ru, касающихся SEO, доработки frontend-а.
 
