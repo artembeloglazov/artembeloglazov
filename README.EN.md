@@ -2,7 +2,7 @@
 
 ## <a href="http://перевозкиспб.рф" id="perevozki"><img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"/></a>  [Перевозкиспб.рф](http://перевозкиспб.рф)
 
-The website of cargo transportation in St. PETERSBURG and Leningrad region.
+The website of cargo transportation in St.Petersburg and Leningrad region.
 
 Responsibilities: maintenance of the entire technical part, coordination of performers, setting up the backoffice.
 
