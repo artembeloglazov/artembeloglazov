@@ -57,7 +57,7 @@ Responsibilities: development and support of system of booking air, train, hotel
 
 The result: integration with Sabre GDS, launch and implementation redmine in the team work, networks, participation in server administration, writing the TOR, the block diagrams, test automation(phpunit, selenium, mocha.js) customer support in the event of difficult cases.
 
-> Opensource: development of [jade/par template wrapper] (https://www.nomos.com/package/coffee-jade-wrapper) in coffeescript.
+> Opensource: development of [jade/pug template wrapper](https://www.npmjs.com/package/coffee-jade-wrapper) in coffeescript.
 
 # 2009
 
