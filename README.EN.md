@@ -1,6 +1,7 @@
 ---
-title: English version
+layout: default
 ---
+
 
 # 2017 - 2018
 
