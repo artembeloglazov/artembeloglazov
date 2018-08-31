@@ -7,13 +7,13 @@ description: Backend developer, St.Petersburg
 
 # 2017 - 2018
 
-## <a href="http://перевозкиспб.рф" id="perevozki"><img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"/></a>  [Перевозкиспб.рф](http://перевозкиспб.рф)
+## <a href="http://перевозкиспб.рф" id="perevozki"><img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"/></a>  [Perevozkispb.rf](http://перевозкиспб.рф)
 
 The website of cargo transportation in St.Petersburg and Leningrad region.
 
 Responsibilities: maintenance of the entire technical part, coordination of performers, setting up the backoffice.
 
-## <a href="http://обсада-спб.рф" id="obsada"><img src="http://xn----7sbacdp1enne.xn--p1ai/favicon.ico" height="16"/></a>  [Обсада-спб.рф](http://обсада-спб.рф)
+## <a href="http://обсада-спб.рф" id="obsada"><img src="http://xn----7sbacdp1enne.xn--p1ai/favicon.ico" height="16"/></a>  [Obsada-spb.rf](http://обсада-спб.рф)
 
 The site of construction services.
 
