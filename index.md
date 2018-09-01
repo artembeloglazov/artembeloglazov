@@ -72,3 +72,4 @@ E-commerce стартап
 - fintimes.km.ru (мигрирован на drupal)
 - news.km.ru (поддержка).
  
+[Резюме на hh.ru](https://spb.hh.ru/resume/12650e66ff02dbce370039ed1f657a57724150)
