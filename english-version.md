@@ -13,12 +13,6 @@ The main directions of the company: fulfillment, custody services, shipping and 
 
 Responsibilities: improvement and support of the warehouse management system.
 
-## <a href="http://8express.ru" id="8express"><img src="https://8express.ru/sites/default/files/favicon_1.png" height="16"/></a>  [8express.ru](http://8express.ru)
-
-Главные направления компании: фулфилмент, услуги ответственного хранения, грузоперевозки и курьерские услуги.
-
-Обязанности: доработка и поддержка системы управления складом.
-
 ## <a href="http://обсада-спб.рф" id="obsada"><img src="http://xn----7sbacdp1enne.xn--p1ai/favicon.ico" height="16"/></a>  [Obsada-spb.rf](http://обсада-спб.рф)
 
 The site of construction services.
