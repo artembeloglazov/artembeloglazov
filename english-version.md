@@ -5,17 +5,31 @@ description: Backend development, St.Petersburg
 ---
 
 
-# 2017 - 2018
+# 2018
 
-## <a href="http://перевозкиспб.рф" id="perevozki"><img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"/></a>  [Perevozkispb.rf](http://перевозкиспб.рф)
+## <a href="http://8express.ru" id="8express"><img src="https://8express.ru/sites/default/files/favicon_1.png" height="16"/></a>  [8express.ru](http://8express.ru)
 
-The website of cargo transportation in St.Petersburg and Leningrad region.
+The main directions of the company: fulfillment, custody services, shipping and courier services.
 
-Responsibilities: maintenance of the entire technical part, coordination of performers, setting up the backoffice.
+Responsibilities: improvement and support of the warehouse management system.
+
+## <a href="http://8express.ru" id="8express"><img src="https://8express.ru/sites/default/files/favicon_1.png" height="16"/></a>  [8express.ru](http://8express.ru)
+
+Главные направления компании: фулфилмент, услуги ответственного хранения, грузоперевозки и курьерские услуги.
+
+Обязанности: доработка и поддержка системы управления складом.
 
 ## <a href="http://обсада-спб.рф" id="obsada"><img src="http://xn----7sbacdp1enne.xn--p1ai/favicon.ico" height="16"/></a>  [Obsada-spb.rf](http://обсада-спб.рф)
 
 The site of construction services.
+
+Responsibilities: maintenance of the entire technical part, coordination of performers, setting up the backoffice.
+
+# 2017
+
+## <a href="http://перевозкиспб.рф" id="perevozki"><img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"/></a>  [Perevozkispb.rf](http://перевозкиспб.рф)
+
+The website of cargo transportation in St.Petersburg and Leningrad region.
 
 Responsibilities: maintenance of the entire technical part, coordination of performers, setting up the backoffice.
 
