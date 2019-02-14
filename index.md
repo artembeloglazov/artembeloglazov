@@ -4,7 +4,7 @@ title: Артём Белоглазов
 description: Санкт-Петербург, backend-разработчик 
 ---
 
- # 2018
+# 2018
 
 ## <a href="http://8express.ru" id="8express"><img src="https://8express.ru/sites/default/files/favicon_1.png" height="16"/></a>  [8express.ru](http://8express.ru)
 
