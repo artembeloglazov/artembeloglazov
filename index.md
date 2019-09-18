@@ -6,6 +6,12 @@ description: Санкт-Петербург, backend-разработчик
 
 # 2018 - 2019
 
+## <a href="https://www.gegi.co" id="gegi"><img src="https://www.gegi.co/icons/favicon-32x32.png" height="16"/></a>  [GEGI LLC](https://www.gegi.co)
+
+SaaS-система, разработанная для малых и средних высших учебных заведений.
+
+Обязанности: PHP Developer.
+
 ## <a href="http://8express.ru" id="8express"><img src="https://8express.ru/sites/default/files/favicon_1.png" height="16"/></a>  [8express.ru](http://8express.ru)
 
 Направления деятельности компании: фулфилмент, услуги ответственного хранения, грузоперевозки и курьерские услуги.
