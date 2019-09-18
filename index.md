@@ -10,7 +10,7 @@ description: Санкт-Петербург, backend-разработчик
 
 SaaS-система, разработанная для малых и средних высших учебных заведений.
 
-Обязанности: PHP Developer.
+Обязанности: PHP разработка.
 
 ## <a href="http://8express.ru" id="8express"><img src="https://8express.ru/sites/default/files/favicon_1.png" height="16"/></a>  [8express.ru](http://8express.ru)
 
