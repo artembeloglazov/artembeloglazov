@@ -5,11 +5,11 @@ description: Backend development, St.Petersburg
 ---
 
 
-# 2018 - 2019
+# 2019
 
 ## <a href="https://www.gegi.co" id="gegi"><img src="https://www.gegi.co/icons/favicon-32x32.png" height="16"/></a>  [GEGI LLC](https://www.gegi.co)
 
-SaaS Student Management System designed for small to medium postsecondary educational institutions.
+SaaS Student Management System designed for small to medium postsecondary educational institutions in the United States.
 
 Responsibilities: PHP development.
 
@@ -18,6 +18,8 @@ Responsibilities: PHP development.
 The main directions of the company: fulfillment, custody services, shipping and courier services.
 
 Responsibilities: improvement and support of the warehouse management system.
+
+# 2018
 
 ## <a href="http://обсада-спб.рф" id="obsada"><img src="http://xn----7sbacdp1enne.xn--p1ai/favicon.ico" height="16"/></a>  [Obsada-spb.rf](http://обсада-спб.рф)
 
