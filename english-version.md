@@ -9,7 +9,7 @@ description: Backend development, St.Petersburg
 
 ## <a href="https://www.gegi.co" id="gegi"><img src="https://www.gegi.co/icons/favicon-32x32.png" height="16"/></a>  [GEGI LLC](https://www.gegi.co)
 
-SaaS Student Management System designed for small to medium postsecondary educational institutions in the United States.
+SaaS Student Management System designed for small to medium postsecondary educational institutions.
 
 Responsibilities: PHP development.
 
