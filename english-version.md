@@ -5,7 +5,7 @@ description: Backend development, St.Petersburg
 ---
 
 
-# 2019
+# 2019 - 2020
 
 ## <a href="https://www.gegi.co" id="gegi"><img src="https://www.gegi.co/icons/favicon-32x32.png" height="16"/></a>  [GEGI LLC](https://www.gegi.co)
 
