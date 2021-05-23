@@ -40,7 +40,7 @@ E-commerce стартап
 
 # 2016
 
-## <a href="http://miiix.org" id="miiix"><img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" width="16" height="16"/></a>  [Miiix.org](http://miiix.org)
+## <img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" width="16" height="16"/> Miiix.org
 
 Обязанности: написание с нуля api 2.0 каталога товаров, миграция данных с предыдущей версии, функциональное и приемочное тестирование.
 
