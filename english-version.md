@@ -41,7 +41,7 @@ E-commerce startup
 
 # 2016
 
-## <a href="http://miiix.org" id="miiix"><img src="http://miiix.org/favicon.ico" width="16" height="16"/></a>  [Miiix.org](http://miiix.org)
+## <a href="http://miiix.org" id="miiix"><img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" width="16" height="16"/></a>  [Miiix.org](http://miiix.org)
 
 Responsibilities: writing from scratch api 2.0 product catalog, data migration from the previous version, functional and acceptance testing.
 
