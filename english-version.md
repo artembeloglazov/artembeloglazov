@@ -19,7 +19,7 @@ The main directions of the company: fulfillment, custody services, shipping and 
 
 Responsibilities: improvement and support of the warehouse management system.
 
-# 2018
+# 2018 - 2019
 
 ## <a href="http://обсада-спб.рф" id="obsada"><img src="http://xn----7sbacdp1enne.xn--p1ai/favicon.ico" height="16"/></a>  [Obsada-spb.rf](http://обсада-спб.рф)
 
@@ -27,7 +27,7 @@ The site of construction services.
 
 Responsibilities: maintenance of the entire technical part, coordination of performers, setting up the backoffice.
 
-# 2017
+# 2017 - 2018
 
 ## <a href="http://перевозкиспб.рф" id="perevozki"><img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"/></a>  [Perevozkispb.rf](http://перевозкиспб.рф)
 
@@ -39,7 +39,7 @@ Responsibilities: maintenance of the entire technical part, coordination of perf
 
 E-commerce startup
 
-# 2016
+# 2016 - 2017
 
 ## <img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" width="16" height="16"/>  Miiix.org
 
