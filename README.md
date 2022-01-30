@@ -1,5 +1,8 @@
 ### Hello, I am a backend developer with [10+ years of experience](https://www.rg1.ru/english-version.html). 👋
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **artembeloglazov/artembeloglazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
