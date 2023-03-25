@@ -22,7 +22,7 @@ SaaS-система для высших учебных заведений США
 
 # 2018 - 2019
 
-## <a href="http://8express.ru" id="8express"><img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/></a>  [8express.ru](http://8express.ru)
+## <a href="http://8express.ru" id="8express"><img src="/company_404.png" height="16"/></a>  [8express.ru](http://8express.ru)
 
 Направления деятельности компании: фулфилмент, услуги ответственного хранения, грузоперевозки и курьерские услуги.
 
@@ -42,13 +42,13 @@ SaaS-система для высших учебных заведений США
 
 Обязанности: поднятие и ведение проекта с нуля, координация исполнителей, настройка бэк-офиса.
 
-## <img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/>  Smallhorse.ru
+## <img src="/company_404.png" height="16"/>  Smallhorse.ru
 
 E-commerce стартап
 
 # 2016 - 2017
 
-## <img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/> Miiix.org
+## <img src="/company_404.png" height="16"/> Miiix.org
 
 Обязанности: написание с нуля api 2.0 каталога товаров, миграция данных с предыдущей версии, функциональное и приемочное тестирование.
 
@@ -62,7 +62,7 @@ E-commerce стартап
 
 # 2015
 
-## <a href="http://paxport.ru" id="paxport"><img src="https://static.tildacdn.com/tild3639-3138-4537-b966-623466643566/favicon.ico" width="16" height="16"/></a>  [Paxport.ru](http://paxport.ru)
+## <a href="http://paxport.ru" id="paxport"><img src="/company_404.png" width="16" height="16"/></a>  [Paxport.ru](http://paxport.ru)
 
 Обязанности: разработка на Zend FW + SOAP системы бронирования билетов.
 
