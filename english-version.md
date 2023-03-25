@@ -20,7 +20,7 @@ SaaS Student Management System designed for small to medium postsecondary educat
 
 Responsibilities: PHP development.
 
-## <a href="http://8express.ru" id="8express"><img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/></a>  [8express.ru](http://8express.ru)
+## <a href="https://web.archive.org/web/20220706161234/http://8express.ru/" id="8express"><img src="/company_404.png" height="16"/></a> 8express.ru
 
 The main directions of the company: fulfillment, custody services, shipping and courier services.
 
@@ -42,13 +42,9 @@ The website of cargo transportation in St.Petersburg and Leningrad region.
 
 Responsibilities: maintenance of the entire technical part, coordination of performers, setting up the backoffice.
 
-## <img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/>  Smallhorse.ru
-
-E-commerce startup
-
 # 2016 - 2017
 
-## <img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/>  Miiix.org
+## <a href="https://web.archive.org/web/20160313130427/http://miiix.org/login/" id="Miiix"><img src="/company_404.png" height="16"/></a>  Miiix.org
 
 Responsibilities: writing from scratch api 2.0 product catalog, data migration from the previous version, functional and acceptance testing.
 
@@ -62,7 +58,7 @@ Result: media server writing and migration of all data from the old engine, solu
 
 # 2015
 
-## <a href="http://paxport.ru" id="paxport"><img src="https://static.tildacdn.com/tild3639-3138-4537-b966-623466643566/favicon.ico" width="16" height="16"/></a>  [Paxport.ru](http://paxport.ru)
+## <a href="https://web.archive.org/web/20170424181349/http://paxport.pro/" id="paxport"><img src="/company_404.png" width="16" height="16"/></a>  Paxport.pro
 
 Responsibilities: development on PHP with Zend FW + SOAP system of booking of tickets.
 
