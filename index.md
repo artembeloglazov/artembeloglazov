@@ -4,11 +4,19 @@ title: Артём Белоглазов
 description: Санкт-Петербург, backend-разработчик 
 ---
 
-# С 2019 года по текущий момент
+# С 2022 года по текущий момент
+
+## <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>  [Совкомбанк-технологии](https://sovcombank.it)
+
+Ведущий поставщик услуг в сфере банковского ИТ-аутсорсинга по всей России.
+
+Обязанности: Участие в backend-разработке проектов банка.
+
+# 2019 - 2022
 
 ## <a href="https://www.gegi.co" id="gegi"><img src="https://www.gegi.co/icons/favicon-32x32.png" height="16"/></a>  [GEGI LLC](https://www.gegi.co)
 
-SaaS-система, разработанная для малых и средних высших учебных заведений.
+SaaS-система для высших учебных заведений США.
 
 Обязанности: разработка на PHP.
 
