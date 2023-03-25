@@ -14,13 +14,13 @@ Responsibilities: participation in backend development of bank projects.
 
 # 2019 - 2022
 
-## <a href="https://www.gegi.co" id="gegi"><img src="https://www.gegi.co/icons/favicon-32x32.png" height="16"/></a>  [GEGI LLC](https://www.gegi.co)
+## <a href="https://www.gegi.co" id="gegi"><img src="https://www.gegi.co/img/favicon.ico" height="16"/></a>  [GEGI LLC](https://www.gegi.co)
 
 SaaS Student Management System designed for small to medium postsecondary educational institutions.
 
 Responsibilities: PHP development.
 
-## <a href="http://8express.ru" id="8express"><img src="https://8express.ru/sites/default/files/favicon_1.png" height="16"/></a>  [8express.ru](http://8express.ru)
+## <a href="http://8express.ru" id="8express"><img src="https://content.screencast.com/users/artem4926/folders/Jing/media/031fb5d4-0e44-4cdc-85b3-f345836b42e3/00000011.png" height="16"/></a>  [8express.ru](http://8express.ru)
 
 The main directions of the company: fulfillment, custody services, shipping and courier services.
 
