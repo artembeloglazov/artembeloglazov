@@ -4,7 +4,15 @@ title: Artem Beloglazov
 description: Backend development, St.Petersburg
 ---
 
-# From 2019 to the present
+# С 2022 года по текущий момент
+
+## <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>  [Sovcombank Technologies](https://sovcombank.it)
+
+The leading provider of banking IT outsourcing services across Russia.
+
+Responsibilities: participation in backend development of bank projects.
+
+# 2019 - 2022
 
 ## <a href="https://www.gegi.co" id="gegi"><img src="https://www.gegi.co/icons/favicon-32x32.png" height="16"/></a>  [GEGI LLC](https://www.gegi.co)
 
