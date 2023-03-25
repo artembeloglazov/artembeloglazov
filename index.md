@@ -10,7 +10,7 @@ description: Санкт-Петербург, backend-разработчик
 
 Ведущий поставщик услуг в сфере банковского ИТ-аутсорсинга по всей России.
 
-Обязанности: Участие в backend-разработке проектов банка.
+Обязанности: участие в backend-разработке проектов банка.
 
 # 2019 - 2022
 
@@ -22,7 +22,7 @@ SaaS-система для высших учебных заведений США
 
 # 2018 - 2019
 
-## <a href="http://8express.ru" id="8express"><img src="/company_404.png" height="16"/></a>  [8express.ru](http://8express.ru)
+## <a href="https://web.archive.org/web/20220706161234/http://8express.ru/" id="8express"><img src="/company_404.png" height="16"/></a> 8express.ru
 
 Направления деятельности компании: фулфилмент, услуги ответственного хранения, грузоперевозки и курьерские услуги.
 
@@ -48,7 +48,7 @@ E-commerce стартап
 
 # 2016 - 2017
 
-## <img src="/company_404.png" height="16"/> Miiix.org
+## <a href="https://web.archive.org/web/20160313130427/http://miiix.org/login/" id="Miiix"><img src="/company_404.png" height="16"/></a>  Miiix.org
 
 Обязанности: написание с нуля api 2.0 каталога товаров, миграция данных с предыдущей версии, функциональное и приемочное тестирование.
 
@@ -62,7 +62,7 @@ E-commerce стартап
 
 # 2015
 
-## <a href="http://paxport.ru" id="paxport"><img src="/company_404.png" width="16" height="16"/></a>  [Paxport.ru](http://paxport.ru)
+## <a href="https://web.archive.org/web/20170424181349/http://paxport.pro/" id="paxport"><img src="/company_404.png" width="16" height="16"/></a>  Paxport.pro
 
 Обязанности: разработка на Zend FW + SOAP системы бронирования билетов.
 
