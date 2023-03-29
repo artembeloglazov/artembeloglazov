@@ -4,7 +4,7 @@ title: Artem Beloglazov
 description: Backend development, St.Petersburg
 ---
 
-# С 2022 года по текущий момент
+# From 2022 to the present
 
 ## <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>  [Sovcombank Technologies](https://sovcombank.it)
 
