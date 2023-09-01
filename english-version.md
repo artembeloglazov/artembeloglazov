@@ -20,19 +20,13 @@ SaaS Student Management System designed for small to medium postsecondary educat
 
 Responsibilities: PHP development.
 
+# 2018 - 2019
+
 ## <a href="https://web.archive.org/web/20220706161234/http://8express.ru/" id="8express"><img src="/company_404.png" height="16"/></a> 8express.ru
 
 The main directions of the company: fulfillment, custody services, shipping and courier services.
 
 Responsibilities: improvement and support of the warehouse management system.
-
-# 2018 - 2019
-
-## <a href="http://обсада-спб.рф" id="obsada"><img src="http://xn----7sbacdp1enne.xn--p1ai/favicon.ico" height="16"/></a>  [Obsada-spb.rf](http://обсада-спб.рф)
-
-The site of construction services.
-
-Responsibilities: maintenance of the entire technical part, coordination of performers, setting up the backoffice.
 
 # 2017 - 2018
 
@@ -40,7 +34,7 @@ Responsibilities: maintenance of the entire technical part, coordination of perf
 
 The website of cargo transportation in St.Petersburg and Leningrad region.
 
-Responsibilities: maintenance of the entire technical part, coordination of performers, setting up the backoffice.
+Responsibilities: maintenance of the entire technical part, coordination of performers, setting up the backoffice, implementation of nlp library for text generation.
 
 # 2016 - 2017
 
