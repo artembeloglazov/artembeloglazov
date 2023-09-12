@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artem Beloglazov
-description: Backend development, St.Petersburg
+description: Backend developer, St.Petersburg
 ---
 
 # From 2022 to the present
