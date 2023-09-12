@@ -62,7 +62,7 @@ Responsibilities: development of ticket booking system on Zend FW + SOAP.
 
 Result: implementation of statistics module, generation of business trip reports for clients, solving tasks related to customer support in case of booking system failure, finalization of frontend part.
 
-## PHP programmer [@Obit.ru](http://www.obit.ru) <a href="http://www.obit.ru" id="obit"><img src="https://www.obit.ru/favicon.ico" height="16" width="16"/></a>
+## PHP programmer [@Obit.ru](http://www.obit.ru) <a href="http://www.obit.ru/en/" id="obit"><img src="https://www.obit.ru/favicon.ico" height="16" width="16"/></a>
 
 Responsibilities: development in php, symfony, doctrine, automation of internal processes of a telecom company, integration with 1c.
 
