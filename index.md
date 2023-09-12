@@ -6,7 +6,7 @@ description: Санкт-Петербург, backend-разработчик
 
 # С 2022 года по текущий момент
 
-## <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>  [Совкомбанк-технологии](https://sovcombank.it)
+## <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a> PHP-программист [@Совкомбанк-технологии](https://sovcombank.it)
 
 Ведущий поставщик услуг в сфере банковского ИТ-аутсорсинга по всей России.
 
@@ -14,7 +14,7 @@ description: Санкт-Петербург, backend-разработчик
 
 # 2019 - 2022
 
-## <a href="https://www.gegi.co" id="gegi"><img src="https://www.gegi.co/img/favicon.ico" height="16"/></a>  [GEGI LLC](https://www.gegi.co)
+## <a href="https://www.gegi.co" id="gegi"><img src="https://www.gegi.co/img/favicon.ico" height="16"/></a> Senior Developer [@GEGI LLC](https://www.gegi.co)
 
 SaaS-система для высших учебных заведений США.
 
@@ -22,7 +22,7 @@ SaaS-система для высших учебных заведений США
 
 # 2018 - 2019
 
-## <a href="https://web.archive.org/web/20220706161234/http://8express.ru/" id="8express"><img src="/company_404.png" height="16"/></a> 8express.ru
+## <a href="https://web.archive.org/web/20220706161234/http://8express.ru/" id="8express"><img src="/company_404.png" height="16"/></a> PHP-программист @8express.ru
 
 Направления деятельности компании: фулфилмент, услуги ответственного хранения, грузоперевозки и курьерские услуги.
 
@@ -30,25 +30,25 @@ SaaS-система для высших учебных заведений США
 
 # 2017 - 2018
 
-## <a href="http://перевозкиспб.рф" id="perevozki"><img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"/></a>  [Перевозкиспб.рф](http://перевозкиспб.рф)
+## <a href="http://перевозкиспб.рф" id="perevozki"><img src="http://xn--90abialgn4afhes.xn--p1ai/favicon.ico" height="16"/></a>  Менеджер проекта [@Перевозкиспб.рф](http://перевозкиспб.рф)
 
 Сайт грузоперевозок по СПБ и Ленинградской области.
 
 Обязанности: поднятие и ведение проекта с нуля, координация исполнителей, настройка бэк-офиса, внедрение nlp-библиотеки для генерации текста.
 
-## <img src="/company_404.png" height="16"/>  Smallhorse.ru
+## <img src="/company_404.png" height="16"/>  PHP-программист @Smallhorse.ru
 
 E-commerce стартап
 
 # 2016 - 2017
 
-## <a href="https://web.archive.org/web/20160313130427/http://miiix.org/login/" id="Miiix"><img src="/company_404.png" height="16"/></a>  Miiix.org
+## <a href="https://web.archive.org/web/20160313130427/http://miiix.org/login/" id="Miiix"><img src="/company_404.png" height="16"/></a>  PHP-программист @Miiix.org
 
 Обязанности: написание с нуля api 2.0 каталога товаров, миграция данных с предыдущей версии, функциональное и приемочное тестирование.
 
 Результат: запущена боевая версия.
 
-## <a href="http://www.220-volt.ru" id="220"><img src="http://www.220-volt.ru/favicon.ico" height="16" width="16"/></a>  [220-volt.ru](http://www.220-volt.ru)
+## <a href="http://www.220-volt.ru" id="220"><img src="http://www.220-volt.ru/favicon.ico" height="16" width="16"/></a> PHP-программист [@220-volt.ru](http://www.220-volt.ru)
 
 Обязанности: разработка доски объявлений и форума [mastercity.ru](http://mastercity.ru) (Symfony, Silex, ORM Doctrine, Phalcon).
 
@@ -56,13 +56,13 @@ E-commerce стартап
 
 # 2015
 
-## <a href="https://web.archive.org/web/20170424181349/http://paxport.pro/" id="paxport"><img src="/company_404.png" width="16" height="16"/></a>  Paxport.pro
+## <a href="https://web.archive.org/web/20170424181349/http://paxport.pro/" id="paxport"><img src="/company_404.png" width="16" height="16"/></a> PHP-программист @Paxport.pro
 
 Обязанности: разработка на Zend FW + SOAP системы бронирования билетов.
 
 Результат: реализация модуля статистики, формирования отчетов командировок для клиентов, решение задач, связанных с поддержкой клиентов в случае отказа системы бронирования, доработка frontend-части.
 
-## <a href="http://www.obit.ru" id="obit"><img src="https://www.obit.ru/favicon.ico" height="16" width="16"/></a>  [Obit.ru](http://www.obit.ru)
+## <a href="http://www.obit.ru" id="obit"><img src="https://www.obit.ru/favicon.ico" height="16" width="16"/></a> PHP-программист [@Obit.ru](http://www.obit.ru)
 
 Обязанности: автоматизация внутренних процессов телекоммуникационной компании, интеграция с 1с.
 
@@ -71,7 +71,7 @@ E-commerce стартап
 
 # 2010 — 2015
 
-## <a href="http://starliner.ru" id="starliner"><img src="https://info.starliner.ru/wp-content/uploads/2018/02/icon-180x180-150x150.png" width="16" height="16"/></a> [Starliner.ru](http://starliner.ru)
+## <a href="http://starliner.ru" id="starliner"><img src="https://info.starliner.ru/wp-content/uploads/2018/02/icon-180x180-150x150.png" width="16" height="16"/></a> PHP-программист [@Starliner.ru](http://starliner.ru)
 
 Обязанности: развитие и поддержка системы бронирования авиа, жд, отелей(PHP, SOAP, XSL, node.js, backbone.js, grunt, LESS).
 
@@ -81,7 +81,7 @@ E-commerce стартап
 
 # 2009
 
-## <a href="http://km.ru" id="km"><img src="http://www.km.ru/favicon.ico" height="16" width="16"/></a>  [KM-онлайн](http://km.ru)
+## <a href="http://km.ru" id="km"><img src="http://www.km.ru/favicon.ico" height="16" width="16"/></a> PHP-программист [@KM-онлайн](http://km.ru)
 
 Обязанности: поддержка новостного портала, постепенная миграция на Drupal.
 
