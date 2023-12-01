@@ -6,11 +6,11 @@ description: Санкт-Петербург, backend-разработчик
 
 # С 2022 года по текущий момент
 
-## Backend-программист [@Совкомбанк-технологии](https://sovcombank.it) <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>
+## Старший backend-программист [@Совкомбанк-технологии](https://sovcombank.it) <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>
 
 Ведущий поставщик услуг в сфере банковского ИТ-аутсорсинга по всей России.
 
-Обязанности: разработка на php, symfony, go.
+Обязанности: разработка, поддержка микросервисов на php, symfony, go.
 
 # 2019 - 2022
 
