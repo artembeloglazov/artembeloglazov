@@ -6,11 +6,11 @@ description: Backend Developer, St.Petersburg
 
 # From 2022 to the present
 
-## Backend Developer [@Sovcombank Technologies](https://sovcombank.it) <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>
+## Senior Backend Developer [@Sovcombank Technologies](https://sovcombank.it) <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>
 
 A leading provider of banking IT outsourcing services across Russia.
 
-Responsibilities: development in php, symfony, go.
+Responsibilities: development, support of microservices in php, symfony, go.
 
 # 2019 - 2022
 
