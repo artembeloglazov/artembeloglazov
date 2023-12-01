@@ -48,7 +48,7 @@ Responsibilities: development in php, symfony, shell, writing from scratch api 2
 
 Result: launched MVP, implemented asynchronous catalog update in mongoDB from Mysql.
 
-## PHP Programmer [@220-volt.ru](http://www.220-volt.ru) <a href="http://www.220-volt.ru" id="220"><img src="https://www.220-volt.ru/favicon.svg" height="16" width="16"/></a>
+## PHP Developer [@220-volt.ru](http://www.220-volt.ru) <a href="http://www.220-volt.ru" id="220"><img src="https://www.220-volt.ru/favicon.svg" height="16" width="16"/></a>
 
 Responsibilities: development in php, symfony, phalcon, silex of the message board and forum [mastercity.ru](http://mastercity.ru).
 
@@ -62,7 +62,7 @@ Responsibilities: development of ticket booking system on Zend FW + SOAP.
 
 Result: implementation of statistics module, generation of business trip reports for clients, solving tasks related to customer support in case of booking system failure, finalization of frontend part.
 
-## PHP programmer [@Obit.ru](http://www.obit.ru) <a href="http://www.obit.ru/en/" id="obit"><img src="https://www.obit.ru/favicon.ico" height="16" width="16"/></a>
+## PHP Developer [@Obit.ru](http://www.obit.ru) <a href="http://www.obit.ru/en/" id="obit"><img src="https://www.obit.ru/favicon.ico" height="16" width="16"/></a>
 
 Responsibilities: development in php, symfony, doctrine, automation of internal processes of a telecom company, integration with 1c.
 
