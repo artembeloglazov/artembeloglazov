@@ -6,7 +6,7 @@ description: Backend Developer, St.Petersburg
 
 # From 2022 to the present
 
-## Senior Backend Developer [@Sovcombank Technologies](https://sovcombank.it) <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>
+## Backend Developer [@Sovcombank Technologies](https://sovcombank.it) <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>
 
 A leading provider of banking IT outsourcing services across Russia.
 
