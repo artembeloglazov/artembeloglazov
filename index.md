@@ -36,13 +36,13 @@ SaaS-система для высших учебных заведений США
 
 Обязанности: поднятие и ведение проекта с нуля, координация исполнителей, настройка бэк-офиса(node.js, php), внедрение nlp-библиотеки для генерации текста.
 
-## Backend-программист @Smallhorse.ru <a href="https://web.archive.org/web/20160313130427/http://miiix.org/" id="Smallhorse"><img src="/company_404.png" height="16"/></a>
+## Backend-программист @Smallhorse.ru <a href="https://web.archive.org/web/20170629132134/https://smallhorse.ru/" id="Smallhorse"><img src="/company_404.png" height="16"/></a>
 
 E-commerce стартап
 
 # 2016 - 2017
 
-## Backend-программист @Miiix.org <a href="https://web.archive.org/web/20160313130427/http://miiix.org/" id="Miiix"><img src="/company_404.png" height="16"/></a>
+## Backend-программист @Miiix.org <a href="https://web.archive.org/web/20160313130427/http://miiix.org/login/" id="Miiix"><img src="/company_404.png" height="16"/></a>
 
 Обязанности: разработка на php, symfony, shell, написание с нуля api 2.0 каталога товаров, миграция данных с предыдущей версии, функциональное и приемочное тестирование.
 
