@@ -1,4 +1,4 @@
-### Hello, I am a backend developer with [10+ years of experience](https://www.rg1.ru/english-version.html). 👋
+### Hello, I am a backend developer with [15+ years of experience](https://www.rg1.ru/english-version.html). 👋
 
 <!--
 **artembeloglazov/artembeloglazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
