@@ -81,7 +81,7 @@ E-commerce стартап
 
 # 2009
 
-## PHP-программист [@KM-онлайн](http://km.ru) <a href="http://km.ru" id="km"><img src="https://www.km.ru/sites/default/files/kmru_favicon.ico" height="16" width="16"/></a>
+## PHP-программист [@KM-онлайн](https://www.km.ru) <a href="https://www.km.ru" id="km"><img src="https://www.km.ru/sites/default/files/kmru_favicon.ico" height="16" width="16"/></a>
 
 Обязанности: разработка на php, поддержка новостного портала, постепенная миграция на Drupal.
 
