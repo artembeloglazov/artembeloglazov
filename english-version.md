@@ -81,7 +81,7 @@ Result: integration with Sabre GDS, launch and implementation in redmine, gitlab
 
 # 2009
 
-## PHP Developer [@KM Online](http://km.ru) <a href="http://km.ru" id="km"><img src="https://www.km.ru/sites/default/files/kmru_favicon.ico" height="16" width="16"/></a>
+## PHP Developer [@KM Online](https://www.km.ru) <a href="https://www.km.ru" id="km"><img src="https://www.km.ru/sites/default/files/kmru_favicon.ico" height="16" width="16"/></a>
 
 Responsibilities: development in php, maintenance of a news portal, gradual migration to Drupal.
 
