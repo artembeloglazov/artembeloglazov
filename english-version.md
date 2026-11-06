@@ -6,7 +6,7 @@ description: Backend Developer, St.Petersburg
 
 # From 2022 to the present
 
-## Software Engineering Team Lead [@Sovcombank-technologies](https://sovcombank.it ) <a href="https://sovcombank.it " id="sovcombank"><img src="https://sovcombank.it/favicon.ico " height="16"/></a>
+## Software Engineering Team Lead in [@Sovcombank-technologies](https://sovcombank.it ) <a href="https://sovcombank.it " id="sovcombank"><img src="https://sovcombank.it/favicon.ico " height="16"/></a>
 
 #### 2024-2026 Leading backend Programmer
 #### 2023-2024 Senior backend Programmer
