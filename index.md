@@ -6,7 +6,7 @@ description: Санкт-Петербург, backend-разработчик
 
 # С 2022 года по текущий момент
 
-## Тимлид в [@Совкомбанк-технологиях](https://sovcombank.it) <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>
+## Тимлид разработки в [@Совкомбанк-технологиях](https://sovcombank.it) <a href="https://sovcombank.it" id="sovcombank"><img src="https://sovcombank.it/favicon.ico" height="16"/></a>
 #### 2024 - 2026 Ведущий backend-программист
 #### 2023 - 2024 Старший backend-программист
 #### 2022 - 2023 Backend-программист
